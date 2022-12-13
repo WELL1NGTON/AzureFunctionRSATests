@@ -1,1 +1,1 @@
-# Projeto Teste para Verificar o uso de RSA dentor de AzureFunctions
+# Test Project to Verify the use of RSA inside AzureFunctions
