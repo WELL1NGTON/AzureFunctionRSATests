@@ -476,6 +476,19 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# certs
 private-key.pem
 public-key.pem
 private-key-base64.txt
+
+# vscode files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# vscode azurite https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio-code
+__azurite*
+__blobstorage__
+__queuestorage__
